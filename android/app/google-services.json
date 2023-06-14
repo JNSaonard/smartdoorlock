@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096601592684",
+    "project_id": "fir-smartdoorlock123",
+    "storage_bucket": "fir-smartdoorlock123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096601592684:android:ad9e2ba503139c399d4949",
+        "android_client_info": {
+          "package_name": "com.example.smartdoorlock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABpKihnrWaBOnUA0x_MpADIzjY_CHNgr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
